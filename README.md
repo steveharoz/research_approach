@@ -2,7 +2,7 @@
 
 This document describes a set of standards for what I consider to be reliable scientific research. I hold myself to these standards. While I do not necessarily expect others to agree, I do expect any collaborators to adhere to these standards for projects in which I am an author or co-author.
 
-The standards are far from a complete description of valid scientific research. But they are a minimum set that I adhere to. These standards are incomplete and likely to develop, so please feel free to discuss any concerns or disagreements with me.
+The standards are far from a complete description of valid scientific research. But they are a minimum set that I adhere to. These standards are incomplete and likely to develop, so please feel free to discuss any concerns or disagreements with me. But please bring up any disagreements early, before a substantive time investment is made.
 
 # Ethics
 
