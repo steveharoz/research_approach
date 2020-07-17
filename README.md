@@ -12,6 +12,8 @@ All human-subject research will comply with appropriate IRB (or local equivalent
 
 All data collection and analyses will either be preregistered or explicitly described as "exploratory" or "descriptive". Any devations from a preregistration will be noted in the manuscript. An experiment that is preregistered must report the preregistration in the paper.
 
+Preregistered data collection is more ideal because reporting exploratory results must be very carefully hedged and is less credible.
+
 # Shared research artifacts
 
 ## Data collection
