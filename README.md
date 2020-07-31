@@ -33,9 +33,9 @@ All material and code needed for analysis will be shared. Some documentation for
 All research materials will be shared on a repository that is:
 * Open access to allow free download and reuse (If privacy or other concerns prevent open access, a protected access repository will be used)
 * Immutable and uniquely identifiable to ensure that a single consistent identifier will always lead to a single repository (versions may replace it if past versions remain discoverable and viewable)
-* Has a clear plan for persistence to allow access for reliable long-term access
+* Has a clear plan for persistence to allow for reliable long-term access
 
-Moreover, the artifacts will include a clear and open license for reuse.
+Moreover, the artifacts will include a clear and open license for reuse with no restriction beyond an attribution requirement. CC0 and CC-BY (for text) and MIT (for code) are examples of licenses that meet this level of openness.
 
 # Preprint
 When possible, a preprint will be posted publicly prior to submission, and open access piblication venues will be prioritized.
