@@ -10,9 +10,9 @@ All human-subject research will comply with appropriate IRB (or local equivalent
 
 # Decision timing
 
-All data collection and analyses will either be preregistered or explicitly described as "exploratory" or "descriptive". Any devations from a preregistration will be noted in the manuscript. An experiment that is preregistered must report the preregistration in the paper.
+Decisions about methods, analyses, and exclusion criteria will be made prior to looking at results. HARKing (hypothesizing after results are known), "data peeking", and Q.R.P.s (questionable research practices) will be avoided. To that end, all data collection and analyses will either be preregistered or explicitly described as "exploratory" or "descriptive". Any devations from a preregistration will be noted in the manuscript. An experiment that is preregistered must report the preregistration in the paper.
 
-Preregistered data collection is more ideal because reporting exploratory results must be very carefully hedged and is less credible.
+Preregistered data collection is more ideal because exploratory results are less credible and must be very carefully hedged.
 
 # Shared research artifacts
 
