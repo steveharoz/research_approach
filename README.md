@@ -10,7 +10,7 @@ All human-subject research will comply with appropriate IRB (or local equivalent
 
 # Decision timing
 
-To whatever extent is possible, decisions about methods, analyses, and exclusion criteria will be made prior to looking at results. HARKing (hypothesizing after results are known), "data peeking" (looking at data before determining the stopping point), and Q.R.P.s (questionable research practices) will be avoided. 
+To whatever extent is possible, decisions about data collection methods, analyses, and exclusion criteria will be made prior to looking at results. HARKing (hypothesizing after results are known), "data peeking" (looking at data before determining the stopping point), and Q.R.P.s (questionable research practices) will be avoided. 
 
 If a preregistered experiment is published, the preregistration will be linked from the manuscript. Any devations from a preregistration will be noted in the manuscript.
 
