@@ -10,9 +10,11 @@ All human-subject research will comply with appropriate IRB (or local equivalent
 
 # Decision timing
 
-Decisions about methods, analyses, and exclusion criteria will be made prior to looking at results. HARKing (hypothesizing after results are known), "data peeking", and Q.R.P.s (questionable research practices) will be avoided. To that end, all data collection and analyses will either be preregistered or explicitly described as "exploratory" or "descriptive". Any devations from a preregistration will be noted in the manuscript. An experiment that is preregistered must report the preregistration in the paper.
+To whatever extent is possible, decisions about methods, analyses, and exclusion criteria will be made prior to looking at results. HARKing (hypothesizing after results are known), "data peeking" (looking at data before determining the stopping point), and Q.R.P.s (questionable research practices) will be avoided. 
 
-Preregistered data collection is more ideal because exploratory results are less credible and must be very carefully hedged.
+If a preregistered experiment is published, the preregistration will be linked from the manuscript.
+
+To that end, all data collection and analyses will either report a preregistration or explicitly described as "exploratory" or "descriptive". Any devations from a preregistration will be noted in the manuscript.
 
 # Shared research artifacts
 
@@ -41,4 +43,4 @@ Moreover, the artifacts will include a clear and open license for reuse with no 
 When possible, a preprint will be posted publicly prior to submission, and open access piblication venues will be prioritized.
 
 # IP
-Intllectual property concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable for authors to refuse to share research artifacts due to their or their institution's intellectual property.
+Intllectual property concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable to refuse to share research artifacts that we collected or created due to their or their institution's intellectual property.
