@@ -12,9 +12,9 @@ All human-subject research will comply with appropriate IRB (or local equivalent
 
 To whatever extent is possible, decisions about methods, analyses, and exclusion criteria will be made prior to looking at results. HARKing (hypothesizing after results are known), "data peeking" (looking at data before determining the stopping point), and Q.R.P.s (questionable research practices) will be avoided. 
 
-If a preregistered experiment is published, the preregistration will be linked from the manuscript.
+If a preregistered experiment is published, the preregistration will be linked from the manuscript. Any devations from a preregistration will be noted in the manuscript.
 
-To that end, all data collection and analyses will either report a preregistration or explicitly described as "exploratory" or "descriptive". Any devations from a preregistration will be noted in the manuscript.
+To that end, all data collection and analyses will either report a preregistration or explicitly be described as "exploratory" or "descriptive".
 
 # Shared research artifacts
 
