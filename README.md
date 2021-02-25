@@ -4,6 +4,10 @@ This document describes a set of standards for what I consider to be reliable sc
 
 The standards are far from a complete description of valid scientific research, but they are my minimum set. These standards are incomplete and will continue to be developed and refined over time, so please feel free to discuss any concerns or disagreements with me. But please bring up any disagreements early, before a substantive time investment is made.
 
+# Goals
+
+The primary aim of an empirical research project is to gain a generalizable understanding of some object truth. Applicability, while valuable, is a secondary goal.
+
 # Ethics
 
 All human-subject research will comply with appropriate IRB (or local equivalent) guidelines.
