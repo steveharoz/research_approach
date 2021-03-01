@@ -35,10 +35,10 @@ This data will also include a clear description or "data dictionary" to facilita
 If ethical or practical concerns prevent sharing all of the data, we will share as much as we can and explain why the rest is not shared in the manuscript. However, concerns that prevent sharing should be strongly questioned if unreasonabe (an understandably subjective term). When possible, the unsahred data should be deposited in a protected-access repository.
 
 ## Analysis
-All material and code needed for analysis will be shared. Some documentation for the process must be provided; just stating which program to load it in may be sufficient.
+All material and code needed for analysis will be shared. Some documentation for the process must be provided, but just stating which program to load it in may be sufficient.
 
 # Repositories for sharing
-All research materials will be shared on a repository that is:
+All shared research material will be posted on a repository that is:
 * Open access to allow free download and reuse (If privacy or other concerns prevent open access, a protected access repository will be used)
 * Immutable and uniquely identifiable to ensure that a single consistent identifier will always lead to a single repository (versions may replace it if past versions remain discoverable and viewable)
 * Has a clear plan for persistence to allow for reliable long-term access
@@ -46,7 +46,7 @@ All research materials will be shared on a repository that is:
 Moreover, the artifacts will include a clear and open license for reuse with no restriction beyond an attribution requirement. CC0 and CC-BY (for text) and MIT (for code) are examples of licenses that meet this level of openness.
 
 # Preprint
-When possible, a preprint will be posted publicly prior to submission, and open access piblication venues will be prioritized.
+When possible, a preprint will be posted publicly prior to submission.
 
 # IP
-Intllectual property concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable to refuse to share research artifacts that we collected or created due to their or their institution's intellectual property.
+Intllectual property concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable to refuse to share research artifacts that we collected or created due to our or our institution's intellectual property.
