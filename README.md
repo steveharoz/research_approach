@@ -24,7 +24,7 @@ To that end, all data collection and analyses will either report a preregistrati
 
 # Shared research artifacts
 
-## Data collection
+## Data collection (experiments, scraping, etc.)
 All data collection methods will be clearly described, so that that they can be understood and replicated by others. All code, stimuli, questionnaires, etc. needed to replicate data collection will be shared. If any data collection materials cannot be shared (e.g., if the copyright belongs to other people), we will share as much as we can and state the reason for not sharing the rest in the paper.
 
 ## Data
