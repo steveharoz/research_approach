@@ -22,10 +22,14 @@ If a preregistered experiment is published, the preregistration will be linked f
 
 To that end, all data collection and analyses will either report a preregistration or explicitly be described as "exploratory" or "descriptive".
 
+# Experiments run before I join the project
+Any non-preregistered experiment run prior to my joining a project will be considered part of a pilot study. It must be fine-tuned or simply replicated before being included in a manuscript.
+
+
 # Shared research artifacts
 
 ## Data collection (experiments, scraping, etc.)
-All data collection methods will be clearly described, so that that they can be understood and replicated by others. All code, stimuli, questionnaires, etc. needed to replicate data collection will be shared. If any data collection materials cannot be shared (e.g., if the copyright belongs to other people), we will share as much as we can and state the reason for not sharing the rest in the paper.
+All data collection methods will be clearly described, so that that they can be understood and replicated by others. All code, stimuli, questionnaires, etc. needed to replicate data collection will be shared. If any data collection materials cannot be shared (e.g., if the copyright belongs to other people), we will share as much as we can and state the reason for not sharing the rest in the paper. 
 
 ## Data
 All data collected for the manuscript will be shared in as raw a format as is reasonable. Cleaned, processed, and aggregated data can be shared as a convenience to others, but the raw data must still be available.  
