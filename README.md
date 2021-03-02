@@ -54,3 +54,18 @@ When possible, a preprint will be posted publicly prior to submission in order t
 
 # IP
 Intllectual property concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable to refuse to share research artifacts that we collected or created due to our or our institution's intellectual property.
+
+# Reusing this document
+
+Please feel free to reuse all or just segments. Or feel free use it as inspiration to make your own.
+
+<p xmlns:dct="http://purl.org/dc/terms/" style="font-size: 80%;">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <span resource="[_:publisher]" rel="dct:publisher">
+    <span property="dct:title">Steve Haroz</span></span>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">My Research Approach</span>.
+</p>
