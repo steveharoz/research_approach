@@ -6,7 +6,7 @@ The standards are far from a complete description of valid scientific research, 
 
 # Goals
 
-The primary aim of an empirical research project is to gain a generalizable understanding of some object truth. The application and discovery of phenomena, while valuable, are secondary goals to explaining why some phenomoenon occurs and describing its the extent and limits.
+The primary aim of an empirical research project is to gain a generalizable understanding of some object truth. The application and discovery of phenomena, while valuable, are secondary goals to explaining how something works, why some phenomoenon occurs, and describing its the extent and limits.
 
 # Ethics
 
