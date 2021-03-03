@@ -16,6 +16,9 @@ All human-subject research will comply with appropriate IRB (or local equivalent
 
 Everyone involved in collecting human-subject data will have passed a certification or course on responsible conduct in research (RCR) for human-subjects research, such as the [CITI RCR courses](https://about.citiprogram.org/en/course/human-subjects-research-2/).
 
+# Experiments run before I join the project
+Any non-preregistered experiment run prior to my joining a project will be considered part of a pilot study. It must be fine-tuned or simply replicated before being included in a manuscript.
+
 # Decision timing
 
 To whatever extent is possible, decisions about data collection methods, analyses, and exclusion criteria will be made prior to looking at results. Undocumented HARKing (hypothesizing after results are known), "data peeking" (looking at data before determining the stopping point), and other Q.R.P.s (questionable research practices) will be avoided. For a list of example QRPs, [see table 1](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01832). 
@@ -23,10 +26,6 @@ To whatever extent is possible, decisions about data collection methods, analyse
 If a preregistered experiment is published, the preregistration will be linked from the manuscript. Any devations from a preregistration will be noted in the manuscript.
 
 To that end, all data collection and analyses will either report a preregistration or explicitly be described as "exploratory" or "descriptive".
-
-# Experiments run before I join the project
-Any non-preregistered experiment run prior to my joining a project will be considered part of a pilot study. It must be fine-tuned or simply replicated before being included in a manuscript.
-
 
 # Shared research artifacts
 
