@@ -14,7 +14,7 @@ The primary aim of an empirical research project is to gain a generalizable unde
 
 All human-subject research will comply with appropriate IRB (or local equivalent) guidelines. If the local institution does not have a body that is qualified or willing to regulate human-subjects research, then human-subjects research will not be conducted.
 
-Everyone involved in collecting human-subject data will have passed a certification or course on responsible conduct in research (RCR) for human-subjects research, such as the CITI certification.
+Everyone involved in collecting human-subject data will have passed a certification or course on responsible conduct in research (RCR) for human-subjects research, such as the CITI basic RCR course.
 
 # Decision timing
 
