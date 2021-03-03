@@ -8,7 +8,9 @@ I'd be happy to provide reading or educational materials on any of these topics 
 
 # Goals
 
-The primary aim of an empirical research project is to gain a generalizable understanding of some objective truth. The application and discovery of phenomena, while valuable, are secondary goals to explaining how something works, why some phenomenon occurs, and describing its extent and limits.
+The primary aim of an empirical research project is to gain a generalizable understanding of some objective truth. Multiple experiments to refine any explanations and rule out alternatives may be necessary. 
+
+The application and discovery of phenomena, while valuable, are secondary goals to explaining how something works, why some phenomenon occurs, and describing its extent and limits.
 
 # Ethics
 
