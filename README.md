@@ -55,8 +55,8 @@ Moreover, the artifacts will include a clear and open license for reuse with no 
 # Preprint
 When possible, a preprint will be posted publicly prior to submission in order to get feedback from a broader audience than a few reviewers.
 
-# IP
-Intllectual property concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable to refuse to share research artifacts that we collected or created due to our or our institution's intellectual property.
+# Intellectual Property
+Intellectual property (IP) concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable to refuse to share research artifacts that we collected or created due to our or our institution's intellectual property.
 
 # Reusing this document
 
