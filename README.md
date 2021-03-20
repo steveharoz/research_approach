@@ -25,7 +25,9 @@ Any non-preregistered experiment run prior to my joining a project will be consi
 
 To whatever extent is possible, decisions about data collection methods, analyses, and exclusion criteria will be made prior to looking at results. Undocumented HARKing (hypothesizing after results are known), "data peeking" (looking at data before determining the stopping point), and other Q.R.P.s (questionable research practices) will be avoided. For a list of example QRPs, [see table 1](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01832). 
 
-If a preregistered experiment is published, the preregistration will be linked from the manuscript. Any devations from a preregistration will be noted in the manuscript.
+Under no circumstances will an experiment's preregistration not be reported. 
+
+Any devations from a preregistration will be noted in the manuscript.
 
 To that end, all data collection and analyses will either report a preregistration or explicitly be described as "exploratory" or "descriptive".
 
