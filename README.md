@@ -19,7 +19,7 @@ All human-subject research will comply with appropriate IRB (or local equivalent
 Everyone involved in collecting human-subject data will have passed a certification or course on responsible conduct in research (RCR) for human-subjects research, such as the [CITI RCR courses](https://about.citiprogram.org/en/course/human-subjects-research-2/).
 
 # Experiments run before I join the project
-Any non-preregistered experiment run prior to my joining a project will be considered part of a pilot study. It must be fine-tuned or simply replicated before being included in a manuscript.
+Any experiment run prior to my joining a project will be considered part of a pilot study. It must be fine-tuned or simply replicated before being included in a manuscript.
 
 # Decision timing
 
