@@ -62,7 +62,7 @@ Intellectual property (IP) concerns may arise, especially for stimuli. While oth
 
 # Reusing this document
 
-Please feel free to reuse all of this document or just segments. Or feel free use it as inspiration to make your own.
+Please feel free to reuse all of this document or just segments. Or feel free to use it as inspiration to make your own.
 
 <p xmlns:dct="http://purl.org/dc/terms/" style="font-size: 80%;">
   <a rel="license"
