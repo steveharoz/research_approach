@@ -27,7 +27,7 @@ To whatever extent is possible, decisions about data collection methods, analyse
 
 If a preregistration is made for an experiment, and that experiment appears in a msnuscript, it must be reported. No exceptions. 
 
-Any devations from a preregistration will be noted in the manuscript.
+Any deviations from a preregistration will be noted in the manuscript.
 
 To that end, all data collection and analyses will either report a preregistration or explicitly be described as "exploratory" or "descriptive".
 
