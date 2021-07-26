@@ -60,6 +60,9 @@ When possible, a preprint will be posted publicly prior to submission in order t
 # Intellectual Property
 Intellectual property (IP) concerns may arise, especially for stimuli. While other people's intellectual property concerns may need to be protected, it is not acceptable to refuse to share our research project's artifacts that we collected or created due to our or our institution's intellectual property.
 
+# CRediT – Contributor Roles Taxonomy
+The publication will document the breakdown of contributions in accordance with CRediT (https://casrai.org/credit/). Using supplemental material may be necessary if the venue provides no official mechanism of denoting contribution.
+
 # Reusing this document
 
 Please feel free to reuse all of this document or just segments. Or feel free to use it as inspiration to make your own.
