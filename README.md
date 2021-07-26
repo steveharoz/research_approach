@@ -1,6 +1,6 @@
 # My Research Approach
 
-This document describes a set of standards for what I consider to be reliable scientific research. I hold myself to these standards. While I do not necessarily expect others to agree, I do expect any collaborators to adhere to these standards for projects where I am an author or co-author.
+This document describes a set of standards for what I consider to be reliable scientific research. I hold myself to these standards. While I do not necessarily expect others to agree, I do expect any research collaborators to adhere to these standards for projects where I am an author or co-author.
 
 The standards are far from a complete description of valid scientific research, but they are my minimum set. They will continue to be developed and refined over time, so please feel free to discuss any concerns or disagreements with me. But please bring up any disagreements early, before a substantive time investment is made. 
 
