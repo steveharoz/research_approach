@@ -37,7 +37,7 @@ To that end, all data collection and analyses will either report a preregistrati
 All data collection methods will be clearly described, so that that they can be understood and replicated by others. All code, stimuli, questionnaires, etc. needed to replicate data collection will be shared. If any data collection materials cannot be shared (e.g., if the copyright belongs to other people), we will share as much as we can and state the reason for not sharing the rest in the paper. 
 
 ## Data
-All data collected for the manuscript will be shared in as raw a format as is reasonable. Cleaned, processed, and aggregated data can be shared as a convenience to others, but the raw data must still be available.  
+All data collected for the manuscript will be shared in as raw a format as is reasonable and in an interoperable format such as CSV. Cleaned, processed, and aggregated data can be shared as a convenience to others, but the raw data must still be available.  
 
 This data will also include a clear description or "data dictionary" to facilitate reuse.  
 
